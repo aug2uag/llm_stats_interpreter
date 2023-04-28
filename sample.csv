@@ -1,0 +1,12 @@
+problem_type,problem
+addition,15 + 27
+subtraction,81 - 42
+multiplication,6 x 8
+division,144 / 12
+word_problem,"If John has 3 apples and gives 1 to Jane, how many apples does John have left?"
+word_problem,"If a train is traveling at 60 mph and travels for 3 hours, how far did it go?"
+word_problem,"In a class of 30 students, 20 are girls. What percentage of the class is male?"
+mean,"5,10,15,20,25"
+median,"10,20,30,40,50"
+mode,"5,5,10,15,20"
+range,"10,20,30,40,50"
